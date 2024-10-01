@@ -1,0 +1,2 @@
+# wordpress
+Wordpress for Kubernetes
